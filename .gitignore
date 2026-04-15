@@ -10,6 +10,8 @@ __pycache__/
 # Local tool caches and generated artifacts
 .pytest_cache/
 
+
+
 # Vector store artifacts
 data/vector_store/faiss.index
 data/vector_store/chunks.json
