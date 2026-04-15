@@ -16,5 +16,3 @@ data/vector_store/chunks.json
 data/vector_store/bm25.pkl
 data/vector_store/metadata.json
 
-# data files
-data/
