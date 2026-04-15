@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+
+# Environment files
+.env
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local tool caches and generated artifacts
+.pytest_cache/
+
+# Vector store artifacts
+data/vector_store/faiss.index
+data/vector_store/chunks.json
+data/vector_store/bm25.pkl
+data/vector_store/metadata.json
+
+# data files
+data/
